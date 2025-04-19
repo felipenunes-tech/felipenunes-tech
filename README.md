@@ -2,28 +2,14 @@
 
 **`Estudante de Ciência Da computação`**
 
-Oi! Me chamo Felipe Nunes, tenho 20 anos. Se quiser saber mais sobre minhas experiências, você pode conferir tudo em detalhes no meu currículo, disponível ao clicar no meu nome [Felipe Nunes](https://docs.google.com/document/d/13PjM5NWmU4fB--oBRq0q8oLU4cm_PKGk9LmLFInOKE0/edit?tab=t.0)".
+Me chamo Felipe Nunes, tenho 20 anos, se quiser saber mais sobre minhas experiencias estará detalhada no portfólio"[Felipe Nunes](https://docs.google.com/document/d/13PjM5NWmU4fB--oBRq0q8oLU4cm_PKGk9LmLFInOKE0/edit?tab=t.0)".
 
 <p align="left">
-        <img 
-            title="Cidade natal" 
-            src="https://custom-icon-badges.demolab.com/badge/Rj-Bra-009440?style=for-the-badge&logo=location&logoColor=white"
+        <a href="mailto:devbyfn@gmail.com" title="Gmail">
+            <img src="https://img.shields.io/badge/-Gmail-516140?style=flat-square&labelColor=516140&logo=gmail&logoColor=white&link=" alt="Gmail"
         />
-       <a>
-        <img 
-            alt="Email" 
-            title="Email para contato" 
-            src="https://custom-icon-badges.demolab.com/badge/-debyfn@gmail.com-006400?style=for-the-badge&logo=mention&logoColor=white"
-        />
-    </a>
-    <a href="https://www.linkedin.com/in/felipenunes-tech/" target="_blank">
-        <img 
-        alt = "Linkedin"
-        title = "Me siga no linkedin"
-        src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" 
-        alt="LinkedIn"
-        />
-    </a>
+    <a href="https://www.linkedin.com/in/felipenunes-tech/" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-37432b?style=flat-square&logo=Linkedin&logoColor=white&link=" alt="LinkedIn"/></a>
 
 </p>
 
