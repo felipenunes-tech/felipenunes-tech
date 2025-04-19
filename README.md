@@ -2,7 +2,7 @@
 
 **`Estudante de Ciência Da computação`**
 
-Me chamo Felipe Nunes, tenho 20 anos, se quiser saber mais sobre minhas experiencias estará detalhada no curriculo"[Felipe Nunes](https://docs.google.com/document/d/13PjM5NWmU4fB--oBRq0q8oLU4cm_PKGk9LmLFInOKE0/edit?tab=t.0)".
+Oi! Me chamo Felipe Nunes, tenho 20 anos. Se quiser saber mais sobre minhas experiências, você pode conferir tudo em detalhes no meu currículo, disponível ao clicar no meu nome [Felipe Nunes](https://docs.google.com/document/d/13PjM5NWmU4fB--oBRq0q8oLU4cm_PKGk9LmLFInOKE0/edit?tab=t.0)".
 
 <p align="left">
         <img 
