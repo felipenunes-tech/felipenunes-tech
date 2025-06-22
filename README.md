@@ -1,8 +1,8 @@
-# 😜 Felipe Nunes
+# Felipe Nunes
 
 **`Estudante de Ciência Da computação`**
 
-Me chamo Felipe Nunes, tenho 20 anos, se quiser saber mais sobre minhas experiencias estará detalhada no portfólio"[Felipe Nunes](https://docs.google.com/document/d/13PjM5NWmU4fB--oBRq0q8oLU4cm_PKGk9LmLFInOKE0/edit?tab=t.0)".
+Graduando em ciência da computação pela PUC-Rio, atualmente construindo minha base como desenvolvedor back-end, com foco no entendimento sólido de estruturas, lógica de programação e boas práticas. Tenho grande interesse por cibersegurança, especialmente no que diz respeito à criação de sistemas seguros, proteção de dados e prevenção de vulnerabilidades.".
 
 <p align="left">
         <a href="mailto:devbyfn@gmail.com" title="Gmail">
