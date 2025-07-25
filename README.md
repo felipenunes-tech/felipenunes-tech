@@ -2,7 +2,7 @@
 
 **`Estudante de Ciência Da Computação`**
 
-Graduando em ciência da computação pela PUC-Rio, atualmente construindo minha base como desenvolvedor back-end, com foco no entendimento sólido de estruturas, lógica de programação e boas práticas. Tenho grande interesse por cibersegurança, especialmente no que diz respeito à criação de sistemas seguros, proteção de dados e prevenção de vulnerabilidades.
+Graduando em ciência da computação pela PUC-Rio, atualmente construindo minha base como desenvolvedor back-end, com foco no entendimento sólido de estruturas, lógica de programação e boas práticas. Tenho grande interesse por java e cibersegurança, especialmente no que diz respeito à criação de sistemas seguros, proteção de dados e prevenção de vulnerabilidades.
 
 🔗Para entrar em contato, use;
 
